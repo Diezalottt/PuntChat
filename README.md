@@ -11,7 +11,7 @@ https://www.python.org/downloads/
 
 `Acquire the project's codebase by cloning its GitHub repository.`
 
-git clone https://github.com/ChrisKvamme/PuntChat.git
+git clone https://github.com/ChrisKvamme/PuntChat.git](https://github.com/Diezalottt/PuntChat.git
 
 `In the project directory, establish a virtual environment using the command python -m venv venv.`
 
